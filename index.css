@@ -1,0 +1,126 @@
+.nav{
+    background-color: fuchsia;
+    height: 50px;
+}
+.manu_container{
+    list-style: none;
+    gap:15px;
+    text-align: center;
+}
+.imga{
+    height: 50vh;
+    width: 300px;
+}
+.sl{
+    background-color: forestgreen;
+}
+.txt{
+    padding: 100px;
+    flex-direction: column;
+    font-size: large;
+    align-items: start;
+}
+.sq{
+    
+    justify-content: center;
+    flex-direction: column;
+}
+.ts{
+    padding: 50px;
+}
+.iimga{
+    height: 20vh;
+    width: 150px;
+}
+.clsi{
+    height: 30vh;
+}
+.contain1{
+    height: 50vh;
+}
+.col1{
+    background-color: beige;
+    background-image: url("../image/Iphone\ 14\ pro\ 1.png");
+    
+ 
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+
+}
+.col2{
+    background-color: whitesmoke;
+}
+.footer{
+    height: 50vh;
+    
+    background-color: black;
+    align-items: center;
+}
+.step2{
+    
+    padding-top: 10px;
+    height: 35vh;
+    
+}
+.step4{
+    background-color: aqua;
+    height: 35vh;
+    padding-top: 10px;
+    padding-bottom: 5px;
+ 
+    justify-content: space-between;
+   
+}
+.t1{
+    background-color: white;
+    padding-top: 20px;
+}
+.cad{
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid white;
+    background-color:antiquewhite;
+    box-shadow: 12px 12px 6px white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+.fond{
+    color: white;
+    list-style: none;
+}
+.mmcad{
+    padding-top:30px ;
+    padding-bottom: 30px;
+}
+.mcad{
+    height: 50vh;
+    margin: 30px;
+    padding-top: 20px;
+    gap:5px;
+   justify-content: space-around;
+
+}
+.step2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    
+}
+.ls{
+    list-style: none;
+    gap:20px
+}
+.cad2{
+    height: 100px;
+    border: 0px solid whitesmoke;
+    border-radius: 5px;
+    box-shadow:4px 4px 2px whitesmoke ;
+    background-color: azure;
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+}
